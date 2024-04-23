@@ -1,0 +1,19 @@
+pip install virtualenv
+
+python -m venv claim_deployement
+
+claim_deployement\Scripts\activate
+
+pip install streamlit
+
+streamlit hello
+
+Press Enter
+
+Ctrl + C for stopping
+
+pip intstall sklearn
+
+cd claim ( for folder to activate) cd - change of directory
+
+streamlit run Streamlit_pred.py
